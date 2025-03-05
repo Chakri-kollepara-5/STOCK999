@@ -1,5 +1,9 @@
 streamlit
-pandas 
-requests 
-scikit-learn 
+yfinance
+numpy
+pandas
 matplotlib
+scikit-learn
+keras
+tensorflow
+requests
